@@ -28,6 +28,8 @@ yr , holiday ,Spring, Mist_Cloudy, Light rain_Light snow_Thunderstorm,mnth_3 , m
 2. Increase in demand is observed in the month of 3, 5, 6, 8 ,9, 7 , 10 and yr.
 Demand decrease if it is Spring, holiday , Light rain_Light snow_Thunderstorm, Mist_cloudy and Sunday.
 
+3. Finally Demand increases in the month of 3, 5, 6, 8 ,9, 7 , 10 and yr.
+
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
